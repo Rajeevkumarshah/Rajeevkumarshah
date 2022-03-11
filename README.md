@@ -33,9 +33,9 @@
     <!--   -->
     <!--   -->
     <a href="https://html.com" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://purecss.io" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-css-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"/> </a>   
+    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/> </a> 
+    <a href="https://reactjs.org" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/react.png"/> </a> 
    
 </p>
 
