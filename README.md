@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 <hr>
 
-- 🔭 I’m currently working on **[on a Tour and Travel Website](https://oiviz.in/)**
+- 🔭 I’m currently working on **[on a Tour and Travel Website](https://quicktrvlers.com/)**
  
 
 - 🌱 I’m currently learning **javascript and phython.**
