@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[on a Tour and Travel Website](https://quicktrvlers.com/)**
  
 
-- 🌱 I’m currently learning **javascript and phython.**
+- 🌱 I’m currently learning **javascript and React js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
