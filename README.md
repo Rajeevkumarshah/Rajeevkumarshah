@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajeev</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajeev Shah</h1>
 <h3 align="center">I'm a passionate  Developer from India.</h3>
 <hr>
 
@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 <hr>
 
-- 🔭 I’m currently working on **[on a Tour and Travel Website](https://quicktrvlers.com/)**
+- 🔭 I’m currently working on **[on a blogging Website](https://quicktrvlers.com/)**
  
 
 - 🌱 I’m currently learning **javascript and React js.**
