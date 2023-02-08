@@ -46,18 +46,16 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajeev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeevkumarshah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<hr>
 
-## Connect with me:
-<hr>
+
+Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rajeevkumarshah/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Raajshaab"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rajeev._.shah/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <hr>
-
-
 
 </p>
 
