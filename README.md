@@ -2,15 +2,12 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajeev Shah</h1>
-<h3 align="center">I'm a passionate  Developer from India.</h3>
+<h3 align="center">I'm a passionate  Data Analyst from India.</h3>
 
 
 
 ## 🙋‍♂️ About Me
 
-
-- 🔭 I’m currently working on **[Digital marketing Website](https://www.quadnexus.com/)**
- 
 
 - 🌱 I’m currently learning **Python**
 
