@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[Digital marketing Website](https://www.quadnexus.com/)**
  
 
-- 🌱 I’m currently learning **javascript and React js.**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
