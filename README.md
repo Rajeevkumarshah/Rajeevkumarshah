@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ" height="175px"/></a>
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajeev Ranjan</h1>
